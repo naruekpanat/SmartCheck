@@ -1,0 +1,10 @@
+{
+  "name": "SmartCheck - Flexible Student Attendance System",
+  "description": "ระบบเช็คชื่อนักเรียนและบันทึกกิจกรรมประจำวันแบบยืดหยุ่น เชื่อมต่อ Google Sheets จัดการรายชื่อนักเรียน รายการเช็ค และสรุปรายงาน",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
